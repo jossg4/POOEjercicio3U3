@@ -1,0 +1,61 @@
+{
+  "numero": "45c9a43b-361d-4d1f-9a31-8aa2427da16d",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 58,
+    "second": 44
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Diego Aaron",
+    "apellido": "Lopez Gonzalez",
+    "cedula": "0550994789"
+  },
+  "curso": {
+    "titulo": "Fundamentos matemáticos",
+    "descripcion": "Trigonometría",
+    "costo": 150.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 2
+      },
+      "valor": 18.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 6
+      },
+      "valor": 14.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 11
+      },
+      "valor": 9.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 13.666667
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de artes plásticas",
+      "Club de andinismo",
+      "Club de atletismo",
+      "Club de basket"
+    ],
+    "nombre": "Damaris Andrea",
+    "apellido": "Armas Sandoval",
+    "cedula": "0502235940"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de andinismo",
+      "Club de danza",
+      "Club de música",
+      "Club de robótica"
+    ],
+    "nombre": "Agatha Nicol",
+    "apellido": "Lopez Santamaria",
+    "cedula": "1713698425"
+  },
+  {
+    "carrera": "Ingeniería Electrónica",
+    "clubes": [
+      "Club de artes plásticas",
+      "Club de ajedrez",
+      "Club de atletismo",
+      "Club de robótica"
+    ],
+    "nombre": "Diego Aaron",
+    "apellido": "Lopez Gonzalez",
+    "cedula": "0550994789"
+  },
+  {
+    "carrera": "Ingeniería Electrónica",
+    "clubes": [
+      "Club de ajedrez",
+      "Club de atletismo",
+      "Club de basket",
+      "Club de música"
+    ],
+    "nombre": "Jose Gabriel",
+    "apellido": "Carrillo Sandoval",
+    "cedula": "0589963489"
+  },
+  {
+    "carrera": "Ingeniería Electrónica",
+    "clubes": [
+      "Club de andinismo",
+      "Club de danza",
+      "Club de robótica"
+    ],
+    "nombre": "Adam Dahir",
+    "apellido": "Armijos Martinez",
+    "cedula": "1719986324"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de atletismo",
+      "Club de basket"
+    ],
+    "nombre": "Erick Sebastian",
+    "apellido": "Robayo Zambrano",
+    "cedula": "0556987413"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de artes plásticas",
+      "Club de basket"
+    ],
+    "nombre": "Dayana Lizbeth",
+    "apellido": "Orellana Ramos",
+    "cedula": "1713695402"
+  },
+  {
+    "carrera": "Ingeniería Mecatrónica",
+    "clubes": [
+      "Club de artes plásticas",
+      "Club de basket",
+      "Club de danza"
+    ],
+    "nombre": "Abel Adrian",
+    "apellido": "Pacheco Paredes",
+    "cedula": "0560987632"
+  },
+  {
+    "carrera": "Ingeniería Mecatrónica",
+    "clubes": [
+      "Club de basket",
+      "Club de danza"
+    ],
+    "nombre": "Samanta Abigail",
+    "apellido": "Salgado Reyes",
+    "cedula": "1713320406"
+  },
+  {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de ajedrez",
+      "Club de atletismo",
+      "Club de danza"
+    ],
+    "nombre": "Adamari Gabriela",
+    "apellido": "Cueva Jacome",
+    "cedula": "0550455963"
+  }
+]

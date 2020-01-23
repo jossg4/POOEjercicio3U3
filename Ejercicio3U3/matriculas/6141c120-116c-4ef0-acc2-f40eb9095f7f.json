@@ -1,0 +1,61 @@
+{
+  "numero": "6141c120-116c-4ef0-acc2-f40eb9095f7f",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 45,
+    "second": 29
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Agatha Nicol",
+    "apellido": "Lopez Santamaria",
+    "cedula": "1713698425"
+  },
+  "curso": {
+    "titulo": "Física fundamental",
+    "descripcion": "Termodinámica",
+    "costo": 200.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 56
+      },
+      "valor": 19.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 3,
+        "second": 59
+      },
+      "valor": 18.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 4,
+        "second": 4
+      },
+      "valor": 17.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 18.0
+}

@@ -1,0 +1,61 @@
+{
+  "numero": "7af35f9e-5c94-4c85-a203-8cd39c9e2214",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 45,
+    "second": 20
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Damaris Andrea",
+    "apellido": "Armas Sandoval",
+    "cedula": "0502235940"
+  },
+  "curso": {
+    "titulo": "Fundamentos de programación",
+    "descripcion": "Algoritmos",
+    "costo": 100.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 46,
+        "second": 26
+      },
+      "valor": 16.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 46,
+        "second": 30
+      },
+      "valor": 18.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 46,
+        "second": 35
+      },
+      "valor": 15.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 16.333334
+}

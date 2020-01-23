@@ -1,0 +1,61 @@
+{
+  "numero": "df54f4c3-a0e7-4745-ab83-7b5ab50589ac",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 59,
+    "second": 3
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Diego Aaron",
+    "apellido": "Lopez Gonzalez",
+    "cedula": "0550994789"
+  },
+  "curso": {
+    "titulo": "Fundamentos de programación",
+    "descripcion": "Algoritmos",
+    "costo": 100.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 52
+      },
+      "valor": 12.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 54
+      },
+      "valor": 11.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 57
+      },
+      "valor": 10.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 11.0
+}

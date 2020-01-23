@@ -1,0 +1,9 @@
+[{
+"titulo" : "Fundamentos de programación","descripcion" : "Algoritmos", "costo" : 100.0},
+{
+"titulo" : "Física fundamental","descripcion" : "Termodinámica", "costo" : 200.0},
+{
+"titulo" : "Programación móvil básica","descripcion" : "iOS", "costo" : 350.0},
+{
+"titulo" : "Fundamentos matemáticos","descripcion" : "Trigonometría", "costo" : 150.0}
+]

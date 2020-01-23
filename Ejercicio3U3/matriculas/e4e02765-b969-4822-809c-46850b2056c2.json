@@ -1,0 +1,30 @@
+{
+  "numero": "e4e02765-b969-4822-809c-46850b2056c2",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 59,
+    "second": 47
+  },
+  "estado": "Registrada",
+  "estudiante": {
+    "carrera": "Ingeniería Mecatrónica",
+    "clubes": [
+      "Club de artes plásticas",
+      "Club de basket",
+      "Club de danza"
+    ],
+    "nombre": "Abel Adrian",
+    "apellido": "Pacheco Paredes",
+    "cedula": "0560987632"
+  },
+  "curso": {
+    "titulo": "Programación móvil básica",
+    "descripcion": "iOS",
+    "costo": 350.0
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

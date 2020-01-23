@@ -1,0 +1,61 @@
+{
+  "numero": "1a32bdf3-e8ac-4e59-97df-25f5aea7e96b",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 59,
+    "second": 17
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Adam Dahir",
+    "apellido": "Armijos Martinez",
+    "cedula": "1719986324"
+  },
+  "curso": {
+    "titulo": "Fundamentos matemáticos",
+    "descripcion": "Trigonometría",
+    "costo": 150.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 22
+      },
+      "valor": 16.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 27
+      },
+      "valor": 5.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 1,
+        "second": 32
+      },
+      "valor": 11.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 10.666667
+}

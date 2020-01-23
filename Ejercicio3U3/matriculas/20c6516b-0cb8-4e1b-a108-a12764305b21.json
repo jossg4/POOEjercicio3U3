@@ -1,0 +1,61 @@
+{
+  "numero": "20c6516b-0cb8-4e1b-a108-a12764305b21",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 59,
+    "second": 55
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Samanta Abigail",
+    "apellido": "Salgado Reyes",
+    "cedula": "1713320406"
+  },
+  "curso": {
+    "titulo": "Programación móvil básica",
+    "descripcion": "iOS",
+    "costo": 350.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 33
+      },
+      "valor": 11.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 37
+      },
+      "valor": 19.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 2,
+        "second": 40
+      },
+      "valor": 13.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 14.333333
+}

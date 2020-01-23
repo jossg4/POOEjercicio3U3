@@ -1,0 +1,61 @@
+{
+  "numero": "d0c52347-a1e5-439c-b0e9-7d3f6a579278",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 59,
+    "second": 11
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Jose Gabriel",
+    "apellido": "Carrillo Sandoval",
+    "cedula": "0589963489"
+  },
+  "curso": {
+    "titulo": "Programación móvil básica",
+    "descripcion": "iOS",
+    "costo": 350.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 5
+      },
+      "valor": 19.98,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 14
+      },
+      "valor": 20.0,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 5,
+        "second": 17
+      },
+      "valor": 20.0,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 19.993334
+}

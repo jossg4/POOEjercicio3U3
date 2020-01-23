@@ -1,0 +1,61 @@
+{
+  "numero": "9745de46-0087-44eb-af80-4c7fd35c37f1",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 59,
+    "second": 30
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Erick Sebastian",
+    "apellido": "Robayo Zambrano",
+    "cedula": "0556987413"
+  },
+  "curso": {
+    "titulo": "Fundamentos de programación",
+    "descripcion": "Algoritmos",
+    "costo": 100.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 4,
+        "second": 29
+      },
+      "valor": 13.5,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 4,
+        "second": 39
+      },
+      "valor": 14.98,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 4,
+        "second": 42
+      },
+      "valor": 17.98,
+      "unidad": "III"
+    }
+  ],
+  "promedio": 15.486667
+}

@@ -1,0 +1,30 @@
+{
+  "numero": "ec3dcb98-892f-4e94-9b42-b2bc5139f586",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 0,
+    "second": 2
+  },
+  "estado": "Registrada",
+  "estudiante": {
+    "carrera": "Ingeniería Electromecánica",
+    "clubes": [
+      "Club de ajedrez",
+      "Club de atletismo",
+      "Club de danza"
+    ],
+    "nombre": "Adamari Gabriela",
+    "apellido": "Cueva Jacome",
+    "cedula": "0550455963"
+  },
+  "curso": {
+    "titulo": "Física fundamental",
+    "descripcion": "Termodinámica",
+    "costo": 200.0
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}
